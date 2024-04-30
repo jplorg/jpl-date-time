@@ -1,6 +1,6 @@
 {
   "name": "@jplorg/lib-date-time",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JPL Date and time",
   "main": "./lib/index.js",
   "exports": {
