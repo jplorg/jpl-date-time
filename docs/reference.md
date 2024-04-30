@@ -1,4 +1,4 @@
-# JPL Date and time
+# [JPL Date and time](index.md) - Reference
 
 Dates are represented as a shadow type in JPL. Shadow types appear as one primitive type in JPL expressions while being treated as another primitive type when being returned from the program or interpolated into strings.
 
